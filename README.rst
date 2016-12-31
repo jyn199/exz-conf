@@ -3,7 +3,7 @@ GET CODE
 .. code-block:: sh
 
     $ cd $CONFDIR
-    $ git clone https://github.com/jaypei/exz-conf.git
+    $ git clone https://github.com/jyn199/exz-conf.git
     $ cd exz-conf
     $ git submodule init
     $ git submodule update
